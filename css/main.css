@@ -1025,6 +1025,7 @@ h1 {
 
 .events .content .details {
   text-align: center;
+  max-width: 100%;
 }
 
 .events .content .details .counters {
